@@ -19,7 +19,7 @@ Users should be able to:
 
 sad
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/result-summary-component-scssbemflexbox-zF_2BjqFDv)
 - Live Site URL: [live](https://kucharzooo.github.io/results-summary-component/)
 
 ### Built with
