@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live](https://kucharzooo.github.io/Results-Summary-Component/)
+- Live Site URL: [live](https://kucharzooo.github.io/results-summary-component/)
 
 ### Built with
 
